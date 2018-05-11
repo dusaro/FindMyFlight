@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TravelRepublic.FlightCodingTest", "TravelRepublic.FlightCodingTest\TravelRepublic.FlightCodingTest.csproj", "{3F2C49FE-E3EC-4FE5-9C95-43A08EE7A076}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelRepublic.FlightCodingTest.UI.ConsoleApp", "TravelRepublic.FlightCodingTest.UI.ConsoleApp\TravelRepublic.FlightCodingTest.UI.ConsoleApp.csproj", "{62C9C4C5-C15A-4D32-B9C3-6ADD4B4D55B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelRepublic.FlightCodingTest.Test", "TravelRepublic.FlightCodingTest.Test\TravelRepublic.FlightCodingTest.Test.csproj", "{C3470BF6-6B88-42DE-81CA-E2A9C3CB2F0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F2C49FE-E3EC-4FE5-9C95-43A08EE7A076}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F2C49FE-E3EC-4FE5-9C95-43A08EE7A076}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F2C49FE-E3EC-4FE5-9C95-43A08EE7A076}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F2C49FE-E3EC-4FE5-9C95-43A08EE7A076}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62C9C4C5-C15A-4D32-B9C3-6ADD4B4D55B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62C9C4C5-C15A-4D32-B9C3-6ADD4B4D55B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62C9C4C5-C15A-4D32-B9C3-6ADD4B4D55B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62C9C4C5-C15A-4D32-B9C3-6ADD4B4D55B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3470BF6-6B88-42DE-81CA-E2A9C3CB2F0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3470BF6-6B88-42DE-81CA-E2A9C3CB2F0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3470BF6-6B88-42DE-81CA-E2A9C3CB2F0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3470BF6-6B88-42DE-81CA-E2A9C3CB2F0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D12A4837-3B64-4AD2-8417-689DDC21429B}
+	EndGlobalSection
+EndGlobal
